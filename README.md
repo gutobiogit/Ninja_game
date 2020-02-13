@@ -2,10 +2,9 @@
 A game proof of concept using Javascript and P5 library
 
 
-This game was create for testing P5 library, functions and calls.
-Totally made in javascript.
-Need a web server to run.
-Tested with **Brackets** and **Visual Studio Code**
+  This game was create for testing P5 library, functions and calls.
+  Totally made in javascript.
+  Tested with **Brackets** and **Visual Studio Code**
 
                       Ninja vs. Lego Zoombie                        
                       ----------------------                        
